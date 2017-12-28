@@ -1,0 +1,8 @@
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\bin\Release\TextcutLine2.0.exe
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\bin\Release\TextcutLine2.0.pdb
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\obj\Release\TextcutLine2._0.Form.resources
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\obj\Release\TextcutLine2._0.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\obj\Release\TextcutLine2.0.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\obj\Release\TextcutLine2.0.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\obj\Release\TextcutLine2.0.exe
+D:\Visual Studio 2015\Projects\TextcutLine2.0\TextcutLine2.0\obj\Release\TextcutLine2.0.pdb
